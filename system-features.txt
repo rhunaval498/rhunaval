@@ -1,0 +1,19 @@
+USERS-TYPE                    Functionality
+
+Patients - appointment, medical records, check-up history and chat to doctor.
+
+Healthcare Providers(Doctor, nurses, midwives, therapists and etc) - patients medical information, checkup history
+                                                                                                     chat to patient
+Administrative Staff - Scheduling appointment, patients information, billing, managing insurance
+
+HealthCare Executive and Managers - Reports all data
+
+https://materializecss.com/typography.html
+
+https://github.com/iamshaunjp/pwa-tutorial/blob/lesson-3/index.html
+
+https://imageresizer.com/resize/
+
+https://www.youtube.com/watch?v=Vz1D28zshaI&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7&index=14
+
+https://www.flaticon.com/search?word=consultant
